@@ -26,7 +26,7 @@ function sayMyName() {
   }
 
   sayMy();
-  
+
   var name = "Cricky";
 
 }
